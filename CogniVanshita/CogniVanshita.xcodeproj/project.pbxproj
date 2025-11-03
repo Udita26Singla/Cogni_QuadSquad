@@ -7,24 +7,24 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		8C7D1E552EB86D3C0067DC45 /* CogniVanshita.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CogniVanshita.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C7D1E762EB872830067DC45 /* CogniVanshita.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CogniVanshita.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		8C7D1E672EB86D3D0067DC45 /* Exceptions for "CogniVanshita" folder in "CogniVanshita" target */ = {
+		8C7D1E882EB872840067DC45 /* Exceptions for "CogniVanshita" folder in "CogniVanshita" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 8C7D1E542EB86D3C0067DC45 /* CogniVanshita */;
+			target = 8C7D1E752EB872830067DC45 /* CogniVanshita */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		8C7D1E572EB86D3C0067DC45 /* CogniVanshita */ = {
+		8C7D1E782EB872830067DC45 /* CogniVanshita */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				8C7D1E672EB86D3D0067DC45 /* Exceptions for "CogniVanshita" folder in "CogniVanshita" target */,
+				8C7D1E882EB872840067DC45 /* Exceptions for "CogniVanshita" folder in "CogniVanshita" target */,
 			);
 			path = CogniVanshita;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		8C7D1E522EB86D3C0067DC45 /* Frameworks */ = {
+		8C7D1E732EB872830067DC45 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8C7D1E4C2EB86D3C0067DC45 = {
+		8C7D1E6D2EB872830067DC45 = {
 			isa = PBXGroup;
 			children = (
-				8C7D1E572EB86D3C0067DC45 /* CogniVanshita */,
-				8C7D1E562EB86D3C0067DC45 /* Products */,
+				8C7D1E782EB872830067DC45 /* CogniVanshita */,
+				8C7D1E772EB872830067DC45 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		8C7D1E562EB86D3C0067DC45 /* Products */ = {
+		8C7D1E772EB872830067DC45 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8C7D1E552EB86D3C0067DC45 /* CogniVanshita.app */,
+				8C7D1E762EB872830067DC45 /* CogniVanshita.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8C7D1E542EB86D3C0067DC45 /* CogniVanshita */ = {
+		8C7D1E752EB872830067DC45 /* CogniVanshita */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8C7D1E682EB86D3D0067DC45 /* Build configuration list for PBXNativeTarget "CogniVanshita" */;
+			buildConfigurationList = 8C7D1E892EB872840067DC45 /* Build configuration list for PBXNativeTarget "CogniVanshita" */;
 			buildPhases = (
-				8C7D1E512EB86D3C0067DC45 /* Sources */,
-				8C7D1E522EB86D3C0067DC45 /* Frameworks */,
-				8C7D1E532EB86D3C0067DC45 /* Resources */,
+				8C7D1E722EB872830067DC45 /* Sources */,
+				8C7D1E732EB872830067DC45 /* Frameworks */,
+				8C7D1E742EB872830067DC45 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				8C7D1E572EB86D3C0067DC45 /* CogniVanshita */,
+				8C7D1E782EB872830067DC45 /* CogniVanshita */,
 			);
 			name = CogniVanshita;
 			packageProductDependencies = (
 			);
 			productName = CogniVanshita;
-			productReference = 8C7D1E552EB86D3C0067DC45 /* CogniVanshita.app */;
+			productReference = 8C7D1E762EB872830067DC45 /* CogniVanshita.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		8C7D1E4D2EB86D3C0067DC45 /* Project object */ = {
+		8C7D1E6E2EB872830067DC45 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2600;
 				LastUpgradeCheck = 2600;
 				TargetAttributes = {
-					8C7D1E542EB86D3C0067DC45 = {
+					8C7D1E752EB872830067DC45 = {
 						CreatedOnToolsVersion = 26.0.1;
 					};
 				};
 			};
-			buildConfigurationList = 8C7D1E502EB86D3C0067DC45 /* Build configuration list for PBXProject "CogniVanshita" */;
+			buildConfigurationList = 8C7D1E712EB872830067DC45 /* Build configuration list for PBXProject "CogniVanshita" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 8C7D1E4C2EB86D3C0067DC45;
+			mainGroup = 8C7D1E6D2EB872830067DC45;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 8C7D1E562EB86D3C0067DC45 /* Products */;
+			productRefGroup = 8C7D1E772EB872830067DC45 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8C7D1E542EB86D3C0067DC45 /* CogniVanshita */,
+				8C7D1E752EB872830067DC45 /* CogniVanshita */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		8C7D1E532EB86D3C0067DC45 /* Resources */ = {
+		8C7D1E742EB872830067DC45 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8C7D1E512EB86D3C0067DC45 /* Sources */ = {
+		8C7D1E722EB872830067DC45 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		8C7D1E692EB86D3D0067DC45 /* Debug */ = {
+		8C7D1E8A2EB872840067DC45 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -169,7 +169,7 @@
 			};
 			name = Debug;
 		};
-		8C7D1E6A2EB86D3D0067DC45 /* Release */ = {
+		8C7D1E8B2EB872840067DC45 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -200,7 +200,7 @@
 			};
 			name = Release;
 		};
-		8C7D1E6B2EB86D3D0067DC45 /* Debug */ = {
+		8C7D1E8C2EB872840067DC45 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -263,7 +263,7 @@
 			};
 			name = Debug;
 		};
-		8C7D1E6C2EB86D3D0067DC45 /* Release */ = {
+		8C7D1E8D2EB872840067DC45 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -322,25 +322,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8C7D1E502EB86D3C0067DC45 /* Build configuration list for PBXProject "CogniVanshita" */ = {
+		8C7D1E712EB872830067DC45 /* Build configuration list for PBXProject "CogniVanshita" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8C7D1E6B2EB86D3D0067DC45 /* Debug */,
-				8C7D1E6C2EB86D3D0067DC45 /* Release */,
+				8C7D1E8C2EB872840067DC45 /* Debug */,
+				8C7D1E8D2EB872840067DC45 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8C7D1E682EB86D3D0067DC45 /* Build configuration list for PBXNativeTarget "CogniVanshita" */ = {
+		8C7D1E892EB872840067DC45 /* Build configuration list for PBXNativeTarget "CogniVanshita" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8C7D1E692EB86D3D0067DC45 /* Debug */,
-				8C7D1E6A2EB86D3D0067DC45 /* Release */,
+				8C7D1E8A2EB872840067DC45 /* Debug */,
+				8C7D1E8B2EB872840067DC45 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 8C7D1E4D2EB86D3C0067DC45 /* Project object */;
+	rootObject = 8C7D1E6E2EB872830067DC45 /* Project object */;
 }
