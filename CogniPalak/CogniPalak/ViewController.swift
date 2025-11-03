@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  CogniSuhani
+//  CogniPalak
 //
 //  Created by Student on 03/11/25.
 //

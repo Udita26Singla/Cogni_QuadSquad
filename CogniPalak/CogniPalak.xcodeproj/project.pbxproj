@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		DBBF70D62EB86B2B00AF6D3A /* CogniSuhani.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CogniSuhani.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F83F8662EB86B420033732A /* CogniPalak.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CogniPalak.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		DBBF70E82EB86B2D00AF6D3A /* Exceptions for "CogniSuhani" folder in "CogniSuhani" target */ = {
+		3F83F8782EB86B440033732A /* Exceptions for "CogniPalak" folder in "CogniPalak" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = DBBF70D52EB86B2B00AF6D3A /* CogniSuhani */;
+			target = 3F83F8652EB86B420033732A /* CogniPalak */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		DBBF70D82EB86B2B00AF6D3A /* CogniSuhani */ = {
+		3F83F8682EB86B420033732A /* CogniPalak */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				DBBF70E82EB86B2D00AF6D3A /* Exceptions for "CogniSuhani" folder in "CogniSuhani" target */,
+				3F83F8782EB86B440033732A /* Exceptions for "CogniPalak" folder in "CogniPalak" target */,
 			);
-			path = CogniSuhani;
+			path = CogniPalak;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DBBF70D32EB86B2B00AF6D3A /* Frameworks */ = {
+		3F83F8632EB86B420033732A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DBBF70CD2EB86B2B00AF6D3A = {
+		3F83F85D2EB86B420033732A = {
 			isa = PBXGroup;
 			children = (
-				DBBF70D82EB86B2B00AF6D3A /* CogniSuhani */,
-				DBBF70D72EB86B2B00AF6D3A /* Products */,
+				3F83F8682EB86B420033732A /* CogniPalak */,
+				3F83F8672EB86B420033732A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DBBF70D72EB86B2B00AF6D3A /* Products */ = {
+		3F83F8672EB86B420033732A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DBBF70D62EB86B2B00AF6D3A /* CogniSuhani.app */,
+				3F83F8662EB86B420033732A /* CogniPalak.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DBBF70D52EB86B2B00AF6D3A /* CogniSuhani */ = {
+		3F83F8652EB86B420033732A /* CogniPalak */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DBBF70E92EB86B2D00AF6D3A /* Build configuration list for PBXNativeTarget "CogniSuhani" */;
+			buildConfigurationList = 3F83F8792EB86B440033732A /* Build configuration list for PBXNativeTarget "CogniPalak" */;
 			buildPhases = (
-				DBBF70D22EB86B2B00AF6D3A /* Sources */,
-				DBBF70D32EB86B2B00AF6D3A /* Frameworks */,
-				DBBF70D42EB86B2B00AF6D3A /* Resources */,
+				3F83F8622EB86B420033732A /* Sources */,
+				3F83F8632EB86B420033732A /* Frameworks */,
+				3F83F8642EB86B420033732A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				DBBF70D82EB86B2B00AF6D3A /* CogniSuhani */,
+				3F83F8682EB86B420033732A /* CogniPalak */,
 			);
-			name = CogniSuhani;
+			name = CogniPalak;
 			packageProductDependencies = (
 			);
-			productName = CogniSuhani;
-			productReference = DBBF70D62EB86B2B00AF6D3A /* CogniSuhani.app */;
+			productName = CogniPalak;
+			productReference = 3F83F8662EB86B420033732A /* CogniPalak.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DBBF70CE2EB86B2B00AF6D3A /* Project object */ = {
+		3F83F85E2EB86B420033732A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2600;
 				LastUpgradeCheck = 2600;
 				TargetAttributes = {
-					DBBF70D52EB86B2B00AF6D3A = {
+					3F83F8652EB86B420033732A = {
 						CreatedOnToolsVersion = 26.0.1;
 					};
 				};
 			};
-			buildConfigurationList = DBBF70D12EB86B2B00AF6D3A /* Build configuration list for PBXProject "CogniSuhani" */;
+			buildConfigurationList = 3F83F8612EB86B420033732A /* Build configuration list for PBXProject "CogniPalak" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = DBBF70CD2EB86B2B00AF6D3A;
+			mainGroup = 3F83F85D2EB86B420033732A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = DBBF70D72EB86B2B00AF6D3A /* Products */;
+			productRefGroup = 3F83F8672EB86B420033732A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DBBF70D52EB86B2B00AF6D3A /* CogniSuhani */,
+				3F83F8652EB86B420033732A /* CogniPalak */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		DBBF70D42EB86B2B00AF6D3A /* Resources */ = {
+		3F83F8642EB86B420033732A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DBBF70D22EB86B2B00AF6D3A /* Sources */ = {
+		3F83F8622EB86B420033732A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		DBBF70EA2EB86B2D00AF6D3A /* Debug */ = {
+		3F83F87A2EB86B440033732A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -146,7 +146,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = CogniSuhani/Info.plist;
+				INFOPLIST_FILE = CogniPalak/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -157,7 +157,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.CogniSuhani;
+				PRODUCT_BUNDLE_IDENTIFIER = com.karan.CogniPalak;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -169,7 +169,7 @@
 			};
 			name = Debug;
 		};
-		DBBF70EB2EB86B2D00AF6D3A /* Release */ = {
+		3F83F87B2EB86B440033732A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -177,7 +177,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = CogniSuhani/Info.plist;
+				INFOPLIST_FILE = CogniPalak/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -188,7 +188,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.CogniSuhani;
+				PRODUCT_BUNDLE_IDENTIFIER = com.karan.CogniPalak;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -200,7 +200,7 @@
 			};
 			name = Release;
 		};
-		DBBF70EC2EB86B2D00AF6D3A /* Debug */ = {
+		3F83F87C2EB86B440033732A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -263,7 +263,7 @@
 			};
 			name = Debug;
 		};
-		DBBF70ED2EB86B2D00AF6D3A /* Release */ = {
+		3F83F87D2EB86B440033732A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -322,25 +322,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DBBF70D12EB86B2B00AF6D3A /* Build configuration list for PBXProject "CogniSuhani" */ = {
+		3F83F8612EB86B420033732A /* Build configuration list for PBXProject "CogniPalak" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DBBF70EC2EB86B2D00AF6D3A /* Debug */,
-				DBBF70ED2EB86B2D00AF6D3A /* Release */,
+				3F83F87C2EB86B440033732A /* Debug */,
+				3F83F87D2EB86B440033732A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DBBF70E92EB86B2D00AF6D3A /* Build configuration list for PBXNativeTarget "CogniSuhani" */ = {
+		3F83F8792EB86B440033732A /* Build configuration list for PBXNativeTarget "CogniPalak" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DBBF70EA2EB86B2D00AF6D3A /* Debug */,
-				DBBF70EB2EB86B2D00AF6D3A /* Release */,
+				3F83F87A2EB86B440033732A /* Debug */,
+				3F83F87B2EB86B440033732A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DBBF70CE2EB86B2B00AF6D3A /* Project object */;
+	rootObject = 3F83F85E2EB86B420033732A /* Project object */;
 }
